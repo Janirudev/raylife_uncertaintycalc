@@ -33,7 +33,7 @@ $cat to get a picture of a cat
 $roast to get insulted
 $yomama to get a yo mama joke
 $swiftquote to get a Taylor Swift quote
-since this bot is still in alpha development expect more commands to be added in the future
+since this bot is still in alpha development expect more commands to be added in the future.
 
 raylife - A bot coded for by DeadlyRayyan and Janirudev ''')
 
